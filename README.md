@@ -8,13 +8,13 @@ ICT Student | Software Development • AI/ML • DSA
 Building impactful projects and continuously learning new technologies 🚀
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Java+%7C+Python+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+New+Technologies;Software+Development" alt="Typing SVG" />
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jigar-137&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
