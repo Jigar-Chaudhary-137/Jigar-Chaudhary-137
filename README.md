@@ -20,7 +20,6 @@ Building impactful projects and continuously learning new technologies 🚀
   <img src="https://komarev.com/ghpvc/?username=Jigar-137&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
----
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jigar-chaudhary-6678b6324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
