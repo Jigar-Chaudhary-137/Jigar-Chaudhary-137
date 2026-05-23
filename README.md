@@ -52,7 +52,7 @@ I'm Jigar Chaudhary, an ICT student passionate about creating meaningful project
 
 I enjoy solving problems, turning ideas into real applications, and exploring innovative solutions that improve both my technical and creative thinking.
 
----
+
 
 - 🎓 ICT Student at Adani University
 - 🚀 Building practical and impactful projects
