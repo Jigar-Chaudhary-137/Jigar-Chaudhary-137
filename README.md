@@ -132,7 +132,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 
 </table>
 
-<br>
+
 ---
 <br>
 
@@ -143,7 +143,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 - Full Stack Development
 - Data Science
 
-<br>
+
 ---
 <br>
 
@@ -168,7 +168,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jigar-Chaudhary-137&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<br>
+
 ---
 <br>
 
@@ -178,7 +178,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
   <img src="https://streak-stats.demolab.com?user=Jigar-Chaudhary-137&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
+
 ---
 <br>
 
@@ -188,7 +188,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-Chaudhary-137&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<br>
+
 ---
 <br>
 
@@ -198,7 +198,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
   <img src="https://raw.githubusercontent.com/Jigar-Chaudhary-137/Jigar-Chaudhary-137/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<br>
+
 ---
 <br>
 
@@ -211,7 +211,7 @@ Worked on practical machine learning tasks and predictive models while gaining h
 
 Focused on improving implementation skills through project-based learning and practical experimentation.
 
-<br>
+
 ---
 #
 
