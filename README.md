@@ -60,8 +60,9 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 - 📚 Passionate about innovation and problem solving
 
 <br>
----
 
+---
+<br>
 
 # 🛠 Tech Stack
 
