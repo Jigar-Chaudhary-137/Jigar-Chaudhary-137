@@ -11,7 +11,7 @@ Building impactful projects and continuously learning new technologies 🚀
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer;AI%2FML+Enthusiast;Java+%7C+Python+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Java+%7C+Python+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ Building impactful projects and continuously learning new technologies 🚀
 
 ## 🚀 About Me
 
-- 🎓 ICT Student from India 🇮🇳
+- 🎓 ICT Student from Adani University
 - 💻 Passionate about Software Development, AI/ML & Problem Solving
 - 🌱 Currently learning Machine Learning & DSA in Java
 - 🚀 Building real-world impactful projects
@@ -88,9 +88,9 @@ Building impactful projects and continuously learning new technologies 🚀
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-137&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-Chaudhary-137&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-137&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-Chaudhary-137&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@ Building impactful projects and continuously learning new technologies 🚀
 # 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jigar-137&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Jigar-Chaudhary-137&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ Building impactful projects and continuously learning new technologies 🚀
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-137&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-Chaudhary-137&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -122,7 +122,7 @@ Building impactful projects and continuously learning new technologies 🚀
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/jigar-chaudhary-6678b6324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -133,7 +133,7 @@ Building impactful projects and continuously learning new technologies 🚀
 
 ---
 
-# ✨ Fun Quote
+# ✨
 
 <p align="center">
 "Keep Learning, Keep Building, Keep Growing 🚀"
