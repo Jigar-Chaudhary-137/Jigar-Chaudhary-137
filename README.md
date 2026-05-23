@@ -9,18 +9,21 @@ Building impactful projects and continuously learning new technologies 🚀
 </p>
 
 ---
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Java+%7C+Python+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+New+Technologies;Software+Development" alt="Typing SVG" />
 </p>
 
 ---
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jigar-137&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/jigar-chaudhary-6678b6324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -44,6 +47,7 @@ Building impactful projects and continuously learning new technologies 🚀
 </p>
 
 ---
+<br>
 
 ## 👨‍💻 About Me
 
@@ -60,7 +64,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 - 📚 Passionate about innovation and problem solving
 
 ---
-
+<br>
 # 🛠 Tech Stack
 
 <table align="center">
@@ -131,7 +135,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 </table>
 
 ---
-
+<br>
 # 🌱 Currently Learning
 
 - DSA in Java
@@ -140,7 +144,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 - Data Science
 
 ---
-
+<br>
 # 🚀 Featured Projects
 
 | 🚀 Project | 📌 Description |
@@ -152,7 +156,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 | **Mini ML Projects** | Collection of practical machine learning experiments and real-world predictive models |
 
 ---
-
+<br>
 # 📊 GitHub Stats
 
 <p align="center">
@@ -162,7 +166,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 </p>
 
 ---
-
+<br>
 # 🔥 GitHub Streak Stats
 
 <p align="center">
@@ -171,17 +175,17 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 ---
 
 # 📈 Contribution Graph
-
+<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-Chaudhary-137&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
-
-# 🐍 Contribution Snake Animation
+<br>
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jigar-Chaudhary-137/Jigar-Chaudhary-137/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Jigar-Chaudhary-137/Jigar-Chaudhary-137/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
