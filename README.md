@@ -44,7 +44,6 @@ Building impactful projects and continuously learning new technologies 🚀
 </p>
 
 ---
-<br>
 
 ## 👨‍💻 About Me
 
@@ -60,8 +59,9 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 - ⚡ Focused on continuous learning and growth
 - 📚 Passionate about innovation and problem solving
 
----
 <br>
+---
+
 
 # 🛠 Tech Stack
 
