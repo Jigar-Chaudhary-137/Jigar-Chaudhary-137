@@ -9,21 +9,19 @@ Building impactful projects and continuously learning new technologies 🚀
 </p>
 
 ---
-<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Java+%7C+Python+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+New+Technologies;Software+Development" alt="Typing SVG" />
 </p>
 
 ---
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jigar-137&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
-<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/jigar-chaudhary-6678b6324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -65,6 +63,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 
 ---
 <br>
+
 # 🛠 Tech Stack
 
 <table align="center">
@@ -136,6 +135,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 
 ---
 <br>
+
 # 🌱 Currently Learning
 
 - DSA in Java
@@ -145,6 +145,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 
 ---
 <br>
+
 # 🚀 Featured Projects
 
 | 🚀 Project | 📌 Description |
@@ -157,6 +158,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 
 ---
 <br>
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -167,6 +169,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 
 ---
 <br>
+
 # 🔥 GitHub Streak Stats
 
 <p align="center">
@@ -176,12 +179,14 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 
 # 📈 Contribution Graph
 <br>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-Chaudhary-137&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 <br>
+
 # 🐍 Contribution Snake
 
 <p align="center">
