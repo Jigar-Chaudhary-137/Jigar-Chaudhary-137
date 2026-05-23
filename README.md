@@ -21,76 +21,144 @@ Building impactful projects and continuously learning new technologies 🚀
 </p>
 
 ---
+<p align="center">
+<a href="https://www.linkedin.com/in/jigar-chaudhary-6678b6324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🚀 About Me
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-- 🎓 ICT Student from Adani University
-- 💻 Passionate about Software Development, AI/ML & Problem Solving
-- 🌱 Currently learning Machine Learning & DSA in Java
-- 🚀 Building real-world impactful projects
-- ⚡ Interested in AI, Development & Emerging Technologies
-- 📚 Consistently improving through projects and hands-on learning
+<a href="mailto:jigar1657@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jigar-Chaudhary-137">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/jigarchaudhary137">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm Jigar Chaudhary, an ICT student passionate about creating meaningful projects and continuously learning new technologies through practical experience.
+
+I enjoy solving problems, turning ideas into real applications, and exploring innovative solutions that improve both my technical and creative thinking.
+
+---
+
+- 🎓 ICT Student at Adani University
+- 🚀 Building practical and impactful projects
+- 🌱 Exploring Machine Learning and modern technologies
+- ⚡ Focused on continuous learning and growth
+- 📚 Passionate about innovation and problem solving
 
 ---
 
 # 🛠 Tech Stack
 
-## 👨‍💻 Languages
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
-</p>
+<tr>
+<td><b>Languages</b></td>
+<td>
 
----
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
 
-## 🤖 AI / ML
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
 
----
+</td>
+</tr>
 
-## ⚙ Tools & Technologies
+<tr>
+<td><b>Web Dev</b></td>
+<td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
 # 🌱 Currently Learning
 
-- Machine Learning
 - DSA in Java
 - Generative AI
 - Full Stack Development
+- Data Science
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🏥 MediCare 2.0 | AI-powered healthcare assistant project |
-| 🤖 AI Projects | Practical AI/ML based real-world projects |
-| 💻 Development Projects | Software and web application projects |
-| 📚 DSA Journey | Improving problem solving and algorithms |
+| 🚀 Project | 📌 Description |
+|------------|----------------|
+| **MediCare 2.0** | AI-powered healthcare assistant focused on smart medical support and user interaction |
+| **Graph Algorithm Simulator** | Visual learning platform for simulating and understanding graph algorithms interactively |
+| **Credit Risk Prediction** | Machine learning model designed to analyze financial data and predict potential credit risk |
+| **Heart Disease Prediction** | Predictive ML model for analyzing medical data and identifying potential health risks |
+| **Mini ML Projects** | Collection of practical machine learning experiments and real-world predictive models |
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-Chaudhary-137&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jigar-Chaudhary-137&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-Chaudhary-137&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jigar-Chaudhary-137&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -118,21 +186,7 @@ Building impactful projects and continuously learning new technologies 🚀
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jigar-chaudhary-6678b6324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:jigar1657@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-# ✨
+#
 
 <p align="center">
 "Keep Learning, Keep Building, Keep Growing 🚀"
