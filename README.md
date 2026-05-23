@@ -11,7 +11,7 @@ Building impactful projects and continuously learning new technologies 🚀
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Java+%7C+Python+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Java+%7C+Python+Developer;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+New+Technologies;Software+Development" alt="Typing SVG" />
 </p>
 
 ---
@@ -100,7 +100,6 @@ Building impactful projects and continuously learning new technologies 🚀
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jigar-Chaudhary-137&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -114,7 +113,7 @@ Building impactful projects and continuously learning new technologies 🚀
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jigar-137/Jigar-137/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Jigar-Chaudhary-137/Jigar-Chaudhary-137/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
