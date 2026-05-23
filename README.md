@@ -139,7 +139,7 @@ I enjoy solving problems, turning ideas into real applications, and exploring in
 ---
 <br>
 
-# 🌱 Currently Exploring
+# 🌱 Currently Learning
 
 Exploring Machine Learning, Data Science, Generative AI, and modern development technologies while building practical real-world applications.
 
